@@ -11,10 +11,7 @@ import Stack from '@mui/material/Stack';
 import SelectMui, { SelectChangeEvent } from '@mui/material/Select';
 
 const defaultProps = {
-  //bgcolor: 'background.paper',
-  //borderColor: 'text.primary',
-  m: 1,
-  //border: 1
+  m: 1
 };
 
 interface AmountPerson {
